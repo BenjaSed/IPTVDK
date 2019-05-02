@@ -11,3 +11,63 @@ https://dr04-lh.akamaihd.net/i/live/dr04_0@147057/master.m3u8
 https://dr06-lh.akamaihd.net/i/live/dr06_0@147059/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DENMARK",DR Ramasjang
 https://dr05-lh.akamaihd.net/i/live/dr05_0@147058/master.m3u8
+#EXTINF:-1 tvg-ID="tv3plus.dk" tvg-name="[DAN] TV3+ HD" tvg-logo="http://213.152.173.38:25461/logos/viasat_tv3_plus_dk.png" group-title="Denmark",[DAN] TV3+ HD
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7193
+#EXTINF:-1 tvg-ID="tv2ostjylland.dk" tvg-name="[DAN] TV2 Østjylland HD" tvg-logo="http://213.152.173.38:25461/logos/tv2_ostjylland.png" group-title="Denmark",[DAN] TV2 Østjylland HD
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7176
+#EXTINF:-1 tvg-ID="tv3sport.dk" tvg-name="[DAN] TV 3 Sport HD" tvg-logo="" group-title="Denmark",[DAN] TV 3 Sport HD
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7175
+#EXTINF:-1 tvg-ID="tv3puls.dk" tvg-name="[DAN] TV 3 Puls" tvg-logo="http://213.152.173.38:25461/logos/viasat_tv3_puls_dk.png" group-title="Denmark",[DAN] TV 3 Puls
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2414
+#EXTINF:-1 tvg-ID="tv3max.dk" tvg-name="[DAN] TV 3 Max" tvg-logo="http://213.152.173.38:25461/logos/tv3-max-dk.png" group-title="Denmark",[DAN] TV 3 Max
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7174
+#EXTINF:-1 tvg-ID="tv3.dk" tvg-name="[DAN] TV 3" tvg-logo="http://213.152.173.38:25461/logos/viasat_tv3_dk.png" group-title="Denmark",[DAN] TV 3
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2413
+#EXTINF:-1 tvg-ID="tv2zulu.dk" tvg-name="[DAN] TV 2 Zulu HD" tvg-logo="http://213.152.173.38:25461/logos/tv2_zulu_dk.png" group-title="Denmark",[DAN] TV 2 Zulu HD
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2412
+#EXTINF:-1 tvg-ID="tv2sport.dk" tvg-name="[DAN] TV 2 Sport" tvg-logo="http://213.152.173.38:25461/logos/tv2_sport_dk.png" group-title="Denmark",[DAN] TV 2 Sport
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2411
+#EXTINF:-1 tvg-ID="tv2nordsalto.dk" tvg-name="[DAN] TV 2 Nord HD" tvg-logo="http://213.152.173.38:25461/logos/tv2_nord.png" group-title="Denmark",[DAN] TV 2 Nord HD
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7177
+#EXTINF:-1 tvg-ID="tv2news.dk" tvg-name="[DAN] TV 2 News HD" tvg-logo="http://213.152.173.38:25461/logos/tv2_news_dk.png" group-title="Denmark",[DAN] TV 2 News HD
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7178
+#EXTINF:-1 tvg-ID="tv2lorry.dk" tvg-name="[DAN] TV 2 Lorry" tvg-logo="http://213.152.173.38:25461/logos/tv2_lorry_dk.png" group-title="Denmark",[DAN] TV 2 Lorry
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2410
+#EXTINF:-1 tvg-ID="tv2.dk" tvg-name="[DAN] TV 2 HD DK" tvg-logo="" group-title="Denmark",[DAN] TV 2 HD DK
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2409
+#EXTINF:-1 tvg-ID="tv2fyn.dk" tvg-name="[DAN] TV 2 Fyn HD" tvg-logo="http://213.152.173.38:25461/logos/tv2_fyn_dk.png" group-title="Denmark",[DAN] TV 2 Fyn HD
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7179
+#EXTINF:-1 tvg-ID="tv2fri.dk" tvg-name="[DAN] TV 2 Fri HD" tvg-logo="http://213.152.173.38:25461/logos/tv2_fri_dk.png" group-title="Denmark",[DAN] TV 2 Fri HD
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7180
+#EXTINF:-1 tvg-ID="tv2charlie.dk" tvg-name="[DAN] TV 2 Charlie HD" tvg-logo="http://213.152.173.38:25461/logos/tv2_charlie_dk.png" group-title="Denmark",[DAN] TV 2 Charlie HD
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7181
+#EXTINF:-1 tvg-ID="tv2bornholm.dk" tvg-name="[DAN] TV 2 Bornholm HD" tvg-logo="http://213.152.173.38:25461/logos/tv2_bornholm.png" group-title="Denmark",[DAN] TV 2 Bornholm HD
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7182
+#EXTINF:-1 tvg-ID="nickelodeon.dk" tvg-name="[DAN] Nickelodeon" tvg-logo="" group-title="Denmark",[DAN] Nickelodeon
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2444
+#EXTINF:-1 tvg-ID="kanal5.dk" tvg-name="[DAN] Kanal 5 FHD" tvg-logo="http://213.152.173.38:25461/logos/kanal_5_dk.png" group-title="Denmark",[DAN] Kanal 5 FHD
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2408
+#EXTINF:-1 tvg-ID="kanal4.dk" tvg-name="[DAN] Kanal 4 FHD" tvg-logo="http://213.152.173.38:25461/logos/kanal_4_dk.png" group-title="Denmark",[DAN] Kanal 4 FHD
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7207
+#EXTINF:-1 tvg-ID="discoveryscience.dk" tvg-name="[DAN] Discovery Science HD" tvg-logo="http://213.152.173.38:25461/logos/discovery_science_global.png" group-title="Denmark",[DAN] Discovery Science HD
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7208
+#EXTINF:-1 tvg-ID="drultra.dk" tvg-name="[DAN] DR Ultra" tvg-logo="http://213.152.173.38:25461/logos/dr-ultra-dk.png" group-title="Denmark",[DAN] DR Ultra
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2407
+#EXTINF:-1 tvg-ID="drramasjang.dk" tvg-name="[DAN] DR Ramasjang" tvg-logo="http://213.152.173.38:25461/logos/dr-ramasjang-dk.png" group-title="Denmark",[DAN] DR Ramasjang
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2406
+#EXTINF:-1 tvg-ID="drk.dk" tvg-name="[DAN] DR K" tvg-logo="http://213.152.173.38:25461/logos/dr-k-dk.png" group-title="Denmark",[DAN] DR K
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2405
+#EXTINF:-1 tvg-ID="dr3.dk" tvg-name="[DAN] DR 3" tvg-logo="http://213.152.173.38:25461/logos/dr3-dk.png" group-title="Denmark",[DAN] DR 3
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2403
+#EXTINF:-1 tvg-ID="dr2.dk" tvg-name="[DAN] DR 2 HD" tvg-logo="http://213.152.173.38:25461/logos/dr2-dk.png" group-title="Denmark",[DAN] DR 2 HD
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2402
+#EXTINF:-1 tvg-ID="dr1.dk" tvg-name="[DAN] DR 1 HD" tvg-logo="http://213.152.173.38:25461/logos/dr1-dk.png" group-title="Denmark",[DAN] DR 1 HD
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2401
+#EXTINF:-1 tvg-ID="dk4.dk" tvg-name="[DAN] DK 4" tvg-logo="http://213.152.173.38:25461/logos/dk_4.png" group-title="Denmark",[DAN] DK 4
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2404
+#EXTINF:-1 tvg-ID="comedycentral.dk" tvg-name="[DAN] Comedy Central" tvg-logo="" group-title="Denmark",[DAN] Comedy Central
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2424
+#EXTINF:-1 tvg-ID="canal9.dk" tvg-name="[DAN] Canal 9 HD" tvg-logo="" group-title="Denmark",[DAN] Canal 9 HD
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2399
+#EXTINF:-1 tvg-ID="6eren.dk" tvg-name="[DAN] 6 Eren FHD" tvg-logo="http://213.152.173.38:25461/logos/6_eren_dk.png" group-title="Denmark",[DAN] 6 Eren FHD
+http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7173
