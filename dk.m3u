@@ -1,5 +1,5 @@
+//---De her hentes fra DR.DK/live, burde fungere hele tiden---
 #EXTM3U
----De her hentes fra DR.DK/live, burde fungere hele tiden.---
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DENMARK",DR 1
 https://drlowlat.akamaized.net/hls/live/702103/drlowlat/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DENMARK",DR 2
@@ -12,7 +12,7 @@ https://dr04-lh.akamaihd.net/i/live/dr04_0@147057/master.m3u8
 https://dr06-lh.akamaihd.net/i/live/dr06_0@147059/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DENMARK",DR Ramasjang
 https://dr05-lh.akamaihd.net/i/live/dr05_0@147058/master.m3u8
----De her er taget fra NordicChannels, ingen garanti for at de ikke forsvinder 4 timer efter kl. 12---
+//---De her er taget fra NordicChannels, ingen garanti for at de ikke forsvinder 4 timer efter kl. 12---
 #EXTINF:-1 tvg-ID="tv3plus.dk" tvg-name="[DAN] TV3+ HD" tvg-logo="http://213.152.173.38:25461/logos/viasat_tv3_plus_dk.png" group-title="Denmark",[DAN] TV3+ HD
 http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7193
 #EXTINF:-1 tvg-ID="tv2ostjylland.dk" tvg-name="[DAN] TV2 Østjylland HD" tvg-logo="http://213.152.173.38:25461/logos/tv2_ostjylland.png" group-title="Denmark",[DAN] TV2 Østjylland HD
