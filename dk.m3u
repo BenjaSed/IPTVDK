@@ -14,46 +14,46 @@ https://dr06-lh.akamaihd.net/i/live/dr06_0@147059/master.m3u8
 https://dr05-lh.akamaihd.net/i/live/dr05_0@147058/master.m3u8
 //---De her er taget fra NordicChannels, ingen garanti for at de ikke forsvinder 4 timer efter kl. 12---
 #EXTINF:-1 tvg-ID="tv3plus.dk" tvg-name="TV3+ HD" tvg-logo="" group-title="Denmark",TV3+ HD
-http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7193
+http://www.e900x.com:8000/p6psCALXdJ/3qcXjK1mRR/7193
 #EXTINF:-1 tvg-ID="tv2ostjylland.dk" tvg-name="TV2 Østjylland HD" tvg-logo="" group-title="Denmark",TV2 Østjylland HD
-http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7176
+http://www.e900x.com:8000/p6psCALXdJ/3qcXjK1mRR/7176
 #EXTINF:-1 tvg-ID="tv3sport.dk" tvg-name="TV 3 Sport HD" tvg-logo="" group-title="Denmark",TV 3 Sport HD
-http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7175
+http://www.e900x.com:8000/p6psCALXdJ/3qcXjK1mRR/7175
 #EXTINF:-1 tvg-ID="tv3puls.dk" tvg-name="TV 3 Puls" tvg-logo="" group-title="Denmark",TV 3 Puls
-http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2414
+http://www.e900x.com:8000/p6psCALXdJ/3qcXjK1mRR/2414
 #EXTINF:-1 tvg-ID="tv3max.dk" tvg-name="TV 3 Max" tvg-logo="" group-title="Denmark",TV 3 Max
-http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7174
+http://www.e900x.com:8000/p6psCALXdJ/3qcXjK1mRR/7174
 #EXTINF:-1 tvg-ID="tv3.dk" tvg-name="TV 3" tvg-logo="" group-title="Denmark",TV 3
-http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2413
+http://www.e900x.com:8000/p6psCALXdJ/3qcXjK1mRR/2413
 #EXTINF:-1 tvg-ID="tv2zulu.dk" tvg-name="TV 2 Zulu HD" tvg-logo="" group-title="Denmark",TV 2 Zulu HD
-http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2412
+http://www.e900x.com:8000/p6psCALXdJ/3qcXjK1mRR/2412
 #EXTINF:-1 tvg-ID="tv2sport.dk" tvg-name="TV 2 Sport" tvg-logo="" group-title="Denmark",TV 2 Sport
-http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2411
+http://www.e900x.com:8000/p6psCALXdJ/3qcXjK1mRR/2411
 #EXTINF:-1 tvg-ID="tv2nordsalto.dk" tvg-name="TV 2 Nord HD" tvg-logo="" group-title="Denmark",TV 2 Nord HD
-http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7177
+http://www.e900x.com:8000/p6psCALXdJ/3qcXjK1mRR/7177
 #EXTINF:-1 tvg-ID="tv2news.dk" tvg-name="TV 2 News HD" tvg-logo="" group-title="Denmark",TV 2 News HD
-http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7178
+http://www.e900x.com:8000/p6psCALXdJ/3qcXjK1mRR/7178
 #EXTINF:-1 tvg-ID="tv2lorry.dk" tvg-name="TV 2 Lorry" tvg-logo="" group-title="Denmark",TV 2 Lorry
-http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2410
+http://www.e900x.com:8000/p6psCALXdJ/3qcXjK1mRR/2410
 #EXTINF:-1 tvg-ID="tv2.dk" tvg-name="TV 2 HD DK" tvg-logo="" group-title="Denmark",TV 2 HD DK
-http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2409
+http://e900x.com:8000/p6psCALXdJ/3qcXjK1mRR/2409
 #EXTINF:-1 tvg-ID="tv2fri.dk" tvg-name="TV 2 Fri HD" tvg-logo="" group-title="Denmark",TV 2 Fri HD
-http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7180
+http://www.e900x.com:8000/p6psCALXdJ/3qcXjK1mRR/7180
 #EXTINF:-1 tvg-ID="tv2charlie.dk" tvg-name="TV 2 Charlie HD" tvg-logo="" group-title="Denmark",TV 2 Charlie HD
-http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7181
+http://www.e900x.com:8000/p6psCALXdJ/3qcXjK1mRR/7181
 #EXTINF:-1 tvg-ID="nickelodeon.dk" tvg-name="Nickelodeon" tvg-logo="" group-title="Denmark",Nickelodeon
-http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2444
+http://www.e900x.com:8000/p6psCALXdJ/3qcXjK1mRR/2444
 #EXTINF:-1 tvg-ID="kanal5.dk" tvg-name="Kanal 5 FHD" tvg-logo="" group-title="Denmark",Kanal 5 FHD
-http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2408
+http://e900x.com:8000/p6psCALXdJ/3qcXjK1mRR/2408
 #EXTINF:-1 tvg-ID="kanal4.dk" tvg-name="Kanal 4 FHD" tvg-logo="" group-title="Denmark",Kanal 4 FHD
-http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7207
+http://e900x.com:8000/p6psCALXdJ/3qcXjK1mRR/7207
 #EXTINF:-1 tvg-ID="discoveryscience.dk" tvg-name="Discovery Science HD" tvg-logo="" group-title="Denmark",Discovery Science HD
-http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7208
+http://www.e900x.com:8000/p6psCALXdJ/3qcXjK1mRR/7208
 #EXTINF:-1 tvg-ID="dk4.dk" tvg-name="KK 4" tvg-logo="" group-title="Denmark",DK 4
-http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2404
+http://www.e900x.com:8000/p6psCALXdJ/3qcXjK1mRR/2404
 #EXTINF:-1 tvg-ID="comedycentral.dk" tvg-name="Comedy Central" tvg-logo="" group-title="Denmark",Comedy Central
-http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2424
+http://www.e900x.com:8000/p6psCALXdJ/3qcXjK1mRR/2424
 #EXTINF:-1 tvg-ID="canal9.dk" tvg-name="Canal 9 HD" tvg-logo="" group-title="Denmark",Canal 9 HD
-http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/2399
+http://www.e900x.com:8000/p6psCALXdJ/3qcXjK1mRR/2399
 #EXTINF:-1 tvg-ID="6eren.dk" tvg-name="6 Eren FHD" tvg-logo="" group-title="Denmark",6 Eren FHD
-http://www.e900x.com:8000/XaPz8AAgry/JawcoD4V36/7173
+http://e900x.com:8000/p6psCALXdJ/3qcXjK1mRR/7173
